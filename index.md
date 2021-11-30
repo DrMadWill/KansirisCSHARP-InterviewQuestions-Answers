@@ -9,7 +9,7 @@
 ***
 > **My Answer** : Bir kod pracasını öncədən müəyyən edilmiş sayda(bu bir şərtdə ola bilər) təkrarıdır.
 - Code
-```markdown
+```
 
 for (int i = 0; i < 3; i++)
     {
@@ -18,7 +18,7 @@ for (int i = 0; i < 3; i++)
 
 ```
 - We see
-```markdown
+```
 Hello World!
 Hello World!
 Hello World!
