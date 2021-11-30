@@ -1,4 +1,4 @@
-## Kansiris CSHARP Interview Questions Answers
+## Kansiris CSHARP Interview Questions Answers  <img src="https://i.postimg.cc/kXnJkdQX/kansir.jpg" align="right" height="320" width="270" >
 
 > Bu [linkdədəki inteveiw sualların](https://github.com/DrMadWill/KansirisCSHARP-InterviewQuestions-Answers)ı cavablandırmağa çalışdım.
 - [My Answer](https://github.com/DrMadWill/KansirisCSHARP-InterviewQuestions-Answers)
