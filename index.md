@@ -17,13 +17,3 @@ for (int i = 0; i < 3; i++)
     }
 
 ```
-- We see
-```
-Hello World!
-Hello World!
-Hello World!
-
-C:\Users\nofel\OneDrive\Desktop\CDev\Task\Task\bin\Debug\netcoreapp3.1\Task.exe (process 11464) exited with code 0.
-Press any key to close this window . . .
-```
-
